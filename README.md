@@ -5,7 +5,5 @@ The Mental Health AI Mentor is an innovative project that leverages the Perplexi
 
 ## Features
 **Personalized Assessment**: Utilizes a set of 5 unique questions to gather insights about the user's mental state.
-
 **AI-Powered Analysis**: Employs the Perplexity AI API to evaluate user responses.
-
 **Customized Recommendations**: Generates personalized tips and advice based on the assessment results.
